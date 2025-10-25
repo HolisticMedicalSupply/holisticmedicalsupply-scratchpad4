@@ -697,7 +697,7 @@
                             </ul>
                         </div>
                         <div class="revenue-box">Year 1: $2.8M - $5.9M</div>
-                        <a href="#revenue-details" class="view-link">View Complete Revenue Analysis</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad5/" class="view-link" target="_blank">View Complete Revenue Analysis</a>
                     </div>
 
                     <div class="card" style="border-top-color: #3498db;">
@@ -718,7 +718,7 @@
                             </ul>
                         </div>
                         <div class="revenue-box">36 BOC Categories</div>
-                        <a href="#portfolio-details" class="view-link">Explore Product Portfolio</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad6/" class="view-link" target="_blank">Explore Product Portfolio</a>
                     </div>
 
                     <div class="card" style="border-top-color: #f39c12;">
@@ -739,7 +739,7 @@
                             </ul>
                         </div>
                         <div class="revenue-box">Market Positioning</div>
-                        <a href="#pricing-details" class="view-link">View Pricing Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad7/" class="view-link" target="_blank">View Pricing Strategy</a>
                     </div>
                 </div>
             </div>
@@ -767,7 +767,7 @@
                             <br><strong>Implementation:</strong> 2-3 months to full operation
                         </div>
                         <div class="revenue-box">$560K - $1.6M Year 1</div>
-                        <a href="#strategy-1-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad8/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
 
                     <!-- Strategy 2 -->
@@ -782,7 +782,7 @@
                             <br><strong>Implementation:</strong> 3-4 months, partnership-based
                         </div>
                         <div class="revenue-box">$280K - $700K Year 1</div>
-                        <a href="#strategy-2-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad9/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
 
                     <!-- Strategy 3 -->
@@ -797,7 +797,7 @@
                             <br><strong>Implementation:</strong> 4-6 months, specialized marketing
                         </div>
                         <div class="revenue-box">$500K - $1.0M Year 1</div>
-                        <a href="#strategy-3-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad10/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
 
                     <!-- Strategy 4 -->
@@ -812,7 +812,7 @@
                             <br><strong>Implementation:</strong> 3-5 months, insurance-reimbursed
                         </div>
                         <div class="revenue-box">$600K - $1.1M Year 1</div>
-                        <a href="#strategy-4-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad11/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
 
                     <!-- Strategy 5 -->
@@ -827,7 +827,7 @@
                             <br><strong>Implementation:</strong> 4-6 months, recurring restocking revenue
                         </div>
                         <div class="revenue-box">$450K - $1.05M Year 1</div>
-                        <a href="#strategy-5-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad12/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
 
                     <!-- Strategy 6 -->
@@ -842,7 +842,7 @@
                             <br><strong>Implementation:</strong> 3-4 months, full e-commerce platform
                         </div>
                         <div class="revenue-box">$900K - $1.8M Year 1</div>
-                        <a href="#strategy-6-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad13/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
 
                     <!-- Strategy 7 -->
@@ -857,7 +857,7 @@
                             <br><strong>Implementation:</strong> 2-4 months, consignment model
                         </div>
                         <div class="revenue-box">$280K - $700K Year 1</div>
-                        <a href="#strategy-7-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad14/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
 
                     <!-- Strategy 8 -->
@@ -872,7 +872,7 @@
                             <br><strong>Implementation:</strong> 4-6 months per division
                         </div>
                         <div class="revenue-box">$750K - $1.5M Year 1 Combined</div>
-                        <a href="#strategy-8-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad15/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
 
                     <!-- Strategy 9 -->
@@ -887,7 +887,7 @@
                             <br><strong>Implementation:</strong> 3-5 months, skilled labor team
                         </div>
                         <div class="revenue-box">$250K - $550K Year 1</div>
-                        <a href="#strategy-9-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad16/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
 
                     <!-- Strategy 10 -->
@@ -902,7 +902,7 @@
                             <br><strong>Implementation:</strong> 5-7 months, tech platform development
                         </div>
                         <div class="revenue-box">$500K - $850K Year 1</div>
-                        <a href="#strategy-10-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad17/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
 
                     <!-- Strategy 11 -->
@@ -917,7 +917,7 @@
                             <br><strong>Implementation:</strong> 4-6 months, retail location required
                         </div>
                         <div class="revenue-box">$350K - $700K Year 1</div>
-                        <a href="#strategy-11-details" class="view-link">View Full Strategy</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad18/" class="view-link" target="_blank">View Full Strategy</a>
                     </div>
                 </div>
             </div>
@@ -1157,7 +1157,7 @@
                             </ul>
                         </div>
                         <div class="revenue-box">1-й год: $2.8M - $5.9M</div>
-                        <a href="#revenue-details" class="view-link">Просмотреть полный анализ доходов</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad5/" class="view-link" target="_blank">Просмотреть полный анализ доходов</a>
                     </div>
 
                     <div class="card" style="border-top-color: #3498db;">
@@ -1178,7 +1178,7 @@
                             </ul>
                         </div>
                         <div class="revenue-box">36 категорий BOC</div>
-                        <a href="#portfolio-details" class="view-link">Изучить портфель продуктов</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad6/" class="view-link" target="_blank">Изучить портфель продуктов</a>
                     </div>
 
                     <div class="card" style="border-top-color: #f39c12;">
@@ -1199,7 +1199,7 @@
                             </ul>
                         </div>
                         <div class="revenue-box">Позиционирование на рынке</div>
-                        <a href="#pricing-details" class="view-link">Просмотреть стратегию ценообразования</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad7/" class="view-link" target="_blank">Просмотреть стратегию ценообразования</a>
                     </div>
                 </div>
             </div>
@@ -1227,7 +1227,7 @@
                             <br><strong>Реализация:</strong> 2-3 месяца до полной работы
                         </div>
                         <div class="revenue-box">$560K - $1.6M 1-й год</div>
-                        <a href="#strategy-1-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad8/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
 
                     <!-- Strategy 2 -->
@@ -1242,7 +1242,7 @@
                             <br><strong>Реализация:</strong> 3-4 месяца, на основе партнерства
                         </div>
                         <div class="revenue-box">$280K - $700K 1-й год</div>
-                        <a href="#strategy-2-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad9/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
 
                     <!-- Strategy 3 -->
@@ -1257,7 +1257,7 @@
                             <br><strong>Реализация:</strong> 4-6 месяцев, специализированный маркетинг
                         </div>
                         <div class="revenue-box">$500K - $1.0M 1-й год</div>
-                        <a href="#strategy-3-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad10/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
 
                     <!-- Strategy 4 -->
@@ -1272,7 +1272,7 @@
                             <br><strong>Реализация:</strong> 3-5 месяцев, с возмещением страховки
                         </div>
                         <div class="revenue-box">$600K - $1.1M 1-й год</div>
-                        <a href="#strategy-4-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad11/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
 
                     <!-- Strategy 5 -->
@@ -1287,7 +1287,7 @@
                             <br><strong>Реализация:</strong> 4-6 месяцев, повторяющийся доход от пополнения запасов
                         </div>
                         <div class="revenue-box">$450K - $1.05M 1-й год</div>
-                        <a href="#strategy-5-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad12/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
 
                     <!-- Strategy 6 -->
@@ -1302,7 +1302,7 @@
                             <br><strong>Реализация:</strong> 3-4 месяца, полная платформа электронной коммерции
                         </div>
                         <div class="revenue-box">$900K - $1.8M 1-й год</div>
-                        <a href="#strategy-6-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad13/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
 
                     <!-- Strategy 7 -->
@@ -1317,7 +1317,7 @@
                             <br><strong>Реализация:</strong> 2-4 месяца, модель консигнации
                         </div>
                         <div class="revenue-box">$280K - $700K 1-й год</div>
-                        <a href="#strategy-7-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad14/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
 
                     <!-- Strategy 8 -->
@@ -1332,7 +1332,7 @@
                             <br><strong>Реализация:</strong> 4-6 месяцев на подразделение
                         </div>
                         <div class="revenue-box">$750K - $1.5M 1-й год в сумме</div>
-                        <a href="#strategy-8-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad15/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
 
                     <!-- Strategy 9 -->
@@ -1347,7 +1347,7 @@
                             <br><strong>Реализация:</strong> 3-5 месяцев, команда квалифицированного труда
                         </div>
                         <div class="revenue-box">$250K - $550K 1-й год</div>
-                        <a href="#strategy-9-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad16/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
 
                     <!-- Strategy 10 -->
@@ -1362,7 +1362,7 @@
                             <br><strong>Реализация:</strong> 5-7 месяцев, разработка технологической платформы
                         </div>
                         <div class="revenue-box">$500K - $850K 1-й год</div>
-                        <a href="#strategy-10-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad17/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
 
                     <!-- Strategy 11 -->
@@ -1377,7 +1377,7 @@
                             <br><strong>Реализация:</strong> 4-6 месяцев, требуется розничное местоположение
                         </div>
                         <div class="revenue-box">$350K - $700K 1-й год</div>
-                        <a href="#strategy-11-details" class="view-link">Просмотреть полную стратегию</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad18/" class="view-link" target="_blank">Просмотреть полную стратегию</a>
                     </div>
                 </div>
             </div>
@@ -1507,7 +1507,7 @@
                             </ul>
                         </div>
                         <div class="revenue-box">1-yil: $2.8M - $5.9M</div>
-                        <a href="#revenue-details" class="view-link">To'liq daromad tahlilini ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad5/" class="view-link" target="_blank">To'liq daromad tahlilini ko'rish</a>
                     </div>
 
                     <div class="card" style="border-top-color: #3498db;">
@@ -1528,7 +1528,7 @@
                             </ul>
                         </div>
                         <div class="revenue-box">36 BOC toifalari</div>
-                        <a href="#portfolio-details" class="view-link">Mahsulot portfelini o'rganish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad6/" class="view-link" target="_blank">Mahsulot portfelini o'rganish</a>
                     </div>
 
                     <div class="card" style="border-top-color: #f39c12;">
@@ -1549,7 +1549,7 @@
                             </ul>
                         </div>
                         <div class="revenue-box">Bozor pozitsiyasi</div>
-                        <a href="#pricing-details" class="view-link">Narx strategiyasini ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad7/" class="view-link" target="_blank">Narx strategiyasini ko'rish</a>
                     </div>
                 </div>
             </div>
@@ -1577,7 +1577,7 @@
                             <br><strong>Amalga oshirish:</strong> To'liq ishlashgacha 2-3 oy
                         </div>
                         <div class="revenue-box">$560K - $1.6M 1-yil</div>
-                        <a href="#strategy-1-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad8/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
 
                     <!-- Strategy 2 -->
@@ -1592,7 +1592,7 @@
                             <br><strong>Amalga oshirish:</strong> 3-4 oy, hamkorlikka asoslangan
                         </div>
                         <div class="revenue-box">$280K - $700K 1-yil</div>
-                        <a href="#strategy-2-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad9/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
 
                     <!-- Strategy 3 -->
@@ -1607,7 +1607,7 @@
                             <br><strong>Amalga oshirish:</strong> 4-6 oy, ixtisoslashtirilgan marketing
                         </div>
                         <div class="revenue-box">$500K - $1.0M 1-yil</div>
-                        <a href="#strategy-3-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad10/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
 
                     <!-- Strategy 4 -->
@@ -1622,7 +1622,7 @@
                             <br><strong>Amalga oshirish:</strong> 3-5 oy, sug'urta kompensatsiyasi bilan
                         </div>
                         <div class="revenue-box">$600K - $1.1M 1-yil</div>
-                        <a href="#strategy-4-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad11/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
 
                     <!-- Strategy 5 -->
@@ -1637,7 +1637,7 @@
                             <br><strong>Amalga oshirish:</strong> 4-6 oy, takrorlanuvchi to'ldirish daromadi
                         </div>
                         <div class="revenue-box">$450K - $1.05M 1-yil</div>
-                        <a href="#strategy-5-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad12/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
 
                     <!-- Strategy 6 -->
@@ -1652,7 +1652,7 @@
                             <br><strong>Amalga oshirish:</strong> 3-4 oy, to'liq elektron tijorat platformasi
                         </div>
                         <div class="revenue-box">$900K - $1.8M 1-yil</div>
-                        <a href="#strategy-6-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad13/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
 
                     <!-- Strategy 7 -->
@@ -1667,7 +1667,7 @@
                             <br><strong>Amalga oshirish:</strong> 2-4 oy, konsignatsiya modeli
                         </div>
                         <div class="revenue-box">$280K - $700K 1-yil</div>
-                        <a href="#strategy-7-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad14/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
 
                     <!-- Strategy 8 -->
@@ -1682,7 +1682,7 @@
                             <br><strong>Amalga oshirish:</strong> Har bir bo'linma uchun 4-6 oy
                         </div>
                         <div class="revenue-box">$750K - $1.5M 1-yil jami</div>
-                        <a href="#strategy-8-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad15/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
 
                     <!-- Strategy 9 -->
@@ -1697,7 +1697,7 @@
                             <br><strong>Amalga oshirish:</strong> 3-5 oy, malakali mehnat jamoasi
                         </div>
                         <div class="revenue-box">$250K - $550K 1-yil</div>
-                        <a href="#strategy-9-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad16/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
 
                     <!-- Strategy 10 -->
@@ -1712,7 +1712,7 @@
                             <br><strong>Amalga oshirish:</strong> 5-7 oy, texnologik platforma rivojlantirish
                         </div>
                         <div class="revenue-box">$500K - $850K 1-yil</div>
-                        <a href="#strategy-10-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad17/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
 
                     <!-- Strategy 11 -->
@@ -1727,7 +1727,7 @@
                             <br><strong>Amalga oshirish:</strong> 4-6 oy, chakana savdo joyi talab qilinadi
                         </div>
                         <div class="revenue-box">$350K - $700K 1-yil</div>
-                        <a href="#strategy-11-details" class="view-link">To'liq strategiyani ko'rish</a>
+                        <a href="https://holisticmedicalsupply.github.io/holisticmedicalsupply-scratchpad18/" class="view-link" target="_blank">To'liq strategiyani ko'rish</a>
                     </div>
                 </div>
             </div>
