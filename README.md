@@ -163,9 +163,9 @@
                 <div class="strategy-card" style="border-top-color: #f39c12;">
                     <span class="badge updated">UPDATED</span>
                     <h3>🎯 8. Specialty Divisions</h3>
-                    <p><strong>BOC Products:</strong> Pediatric (M07, PD04) | Veteran | Cancer (DM15, PD08) | Bariatric (M07A)</p>
-                    <div class="revenue-highlight">$600K - $1.2M Year 1</div>
-                    <p style="margin: 10px 0; font-size: 0.95em; color: #666;">4 focused divisions serving underserved populations</p>
+                    <p><strong>5 Divisions:</strong> Pediatric (M07, PD04) | Veteran | Cancer (DM15, PD08) | Bariatric (M07A) | Pet Medical Supply</p>
+                    <div class="revenue-highlight">$750K - $1.5M Year 1</div>
+                    <p style="margin: 10px 0; font-size: 0.95em; color: #666;">5 focused divisions serving underserved populations + pet market</p>
                     <a href="computer:///mnt/user-data/outputs/strategy-8-specialty-divisions-UPDATED.html" class="view-link">View Full Strategy →</a>
                 </div>
 
